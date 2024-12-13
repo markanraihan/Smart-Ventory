@@ -2,7 +2,7 @@
 Inventory Barang Berbasis Web
 ___________________________________________________________________________________________________________________________________________________________________
 
-<strong>Tentang Website Inventory</strong>
+<strong>Tentang SmartVentory</strong>
 
 
 Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
@@ -54,10 +54,3 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
 -> Catatan(PENTING) :
     <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder DATABASE, yaitu 'inventory'</i>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
-
-Discord : royal_fortune19
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
-1. Discord = @royal_fortune19 <br>
-<strong> Harap Jangan mengubah copyright yang ada di footer website</strong>
